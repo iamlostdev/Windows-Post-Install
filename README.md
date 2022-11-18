@@ -1,1 +1,1 @@
-just run this via powershell as administrator
+just run this as administrator
